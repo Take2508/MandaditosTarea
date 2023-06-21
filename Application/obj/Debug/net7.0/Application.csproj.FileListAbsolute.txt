@@ -1,0 +1,15 @@
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\bin\Debug\net7.0\Application.deps.json
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\bin\Debug\net7.0\Application.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\bin\Debug\net7.0\Application.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\bin\Debug\net7.0\Domain.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\bin\Debug\net7.0\Domain.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\refint\Application.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\ref\Application.dll

@@ -1,0 +1,12 @@
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\bin\Debug\net7.0\Domain.deps.json
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\bin\Debug\net7.0\Domain.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\bin\Debug\net7.0\Domain.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\refint\Domain.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\ref\Domain.dll
